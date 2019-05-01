@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "366847801835",
+    "firebase_url": "https://scopedappinherited.firebaseio.com",
+    "project_id": "scopedappinherited",
+    "storage_bucket": "scopedappinherited.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366847801835:android:1292b666f5c2967a",
+        "android_client_info": {
+          "package_name": "com.devsignerlabs.scoped_app_inherited"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366847801835-77fj25tn9l1cdkh6l6lkj9j3j0cdb29u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP3lhJixEcth7gnsXxWmIDdCznW0CtyJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366847801835-77fj25tn9l1cdkh6l6lkj9j3j0cdb29u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
